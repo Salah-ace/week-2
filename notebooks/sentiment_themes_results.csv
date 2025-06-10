@@ -1,0 +1,6 @@
+review_id,review,rating,sentiment_score,theme,bank,date
+1,Great app but sometimes crashes,4,0.3716,App Stability,CBE,2023-10-01
+2,Very slow transactions,2,0.0,Other,BOA,2023-09-28
+3,Excellent user experience,5,0.5719,Other,Dashen,2023-09-25
+4,Can't login to my account,1,0.0,Login Issues,CBE,2023-09-20
+5,Needs more features,3,0.0,Other,BOA,2023-09-15

@@ -1,0 +1,6 @@
+review,rating,sentiment_score,theme
+Great app but sometimes crashes,4,0.3716,App Stability
+Very slow transactions,2,0.0,Other
+Excellent user experience,5,0.5719,Other
+Can't login to my account,1,0.0,Login Issues
+Needs more features,3,0.0,Other
